@@ -22,3 +22,4 @@ proiect-web-041/
 ## Autor
 Garbuz Marian
 Grupa Web-041
+Actualizare README
